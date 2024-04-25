@@ -1,0 +1,1 @@
+Remove-MgUser -UserId '5c442efb-5e66-484a-936a-91b6810bed14'

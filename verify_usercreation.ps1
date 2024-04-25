@@ -1,0 +1,1 @@
+Get-MgUser -Filter "UserType eq 'Member'"
