@@ -1,0 +1,1 @@
+Remove-MailContact -Identity <MailUserIdentity>
